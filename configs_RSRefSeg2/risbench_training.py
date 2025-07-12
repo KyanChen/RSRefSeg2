@@ -59,7 +59,7 @@ param_scheduler = [
     dict(type=LinearLR, start_factor=0.01, by_epoch=True, begin=0, end=5, convert_to_iter_based=True),
     dict(
         type=CosineAnnealingLR,
-        T_max=2 * max_epochs,
+        T_max=int(1.3 * max_epochs),
         by_epoch=True,
         begin=int(0.1 * max_epochs),
         eta_min_ratio=0.01,
