@@ -263,14 +263,18 @@ If you use our code or benchmarks in your research or project, please cite our w
 
 
 ```
-@misc{chen2025rsrefseg2decouplingreferring,
-      title={RSRefSeg 2: Decoupling Referring Remote Sensing Image Segmentation with Foundation Models}, 
-      author={Keyan Chen and Chenyang Liu and Bowen Chen and Jiafan Zhang and Zhengxia Zou and Zhenwei Shi},
-      year={2025},
-      eprint={2507.06231},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2507.06231}, 
+@article{chen2025rsrefseg,
+  title={Rsrefseg: Referring remote sensing image segmentation with foundation models},
+  author={Chen, Keyan and Zhang, Jiafan and Liu, Chenyang and Zou, Zhengxia and Shi, Zhenwei},
+  journal={arXiv preprint arXiv:2501.06809},
+  year={2025}
+}
+
+@article{chen2025rsrefseg2,
+  title={RSRefSeg 2: Decoupling Referring Remote Sensing Image Segmentation with Foundation Models},
+  author={Chen, Keyan and Liu, Chenyang and Chen, Bowen and Zhang, Jiafan and Zou, Zhengxia and Shi, Zhenwei},
+  journal={arXiv preprint arXiv:2507.06231},
+  year={2025}
 }
 ```
 
